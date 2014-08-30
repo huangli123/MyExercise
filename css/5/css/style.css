@@ -1,0 +1,15 @@
+*{font-family:"ËÎÌו"}
+a{text-decoration:none}
+p{line-height:26px;letter-spacing:0.1em;text-indent:1cm;direction:ltr}
+table{
+text-align:center;
+
+}
+td.bg1{
+background:url('../images/topbg.gif') repeat-x 
+
+}
+
+td.bg2{
+background:url(../images/topbg1.gif)
+}
